@@ -1,7 +1,7 @@
 ### Exploratory Data Analysis Assignment 1 - 2014-05-11
 ## Plot 2
 
-setwd("~/Documents/Coursera/dataScienceSpecialisation/exploratoryDataAnalysis")
+setwd("~/Documents/Coursera/dataScienceSpecialisation/ExData_Plotting1")
 
 # Install Required packages
 if( grep( "lubridate", .packages(all.available=TRUE)) < 1 ){

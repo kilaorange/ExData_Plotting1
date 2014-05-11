@@ -1,7 +1,7 @@
 ### Exploratory Data Analysis Assignment 1 - 2014-05-11
 ## Plot 4
 
-setwd("~/Documents/Coursera/dataScienceSpecialisation/exploratoryDataAnalysis")
+setwd("~/Documents/Coursera/dataScienceSpecialisation/ExData_Plotting1")
 
 library(lubridate)
 
